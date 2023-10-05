@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cris.bernal.o
+- 👋 Hi, I’m @cris-bernal-o
 - 📖 I'm student of Analist - Programmer on Duoc UC on first year
 - 👀 I’m interested in create and solve any problem in my way to be a good programer 
 - 🌱 I’m currently learning all about java and try to go more deep in this language and
